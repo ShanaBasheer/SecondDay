@@ -25,3 +25,5 @@ i want to create new branch and at a time switch  use this command
  doubt. each commit have new branch lets check----
 
  \\\\ create new section ......bsbf\dsfhsgdfhgsfgsfgjhsgfjsgfjs
+git add .
+
