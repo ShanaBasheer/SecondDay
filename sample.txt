@@ -10,7 +10,7 @@ but noted-every checkout before that changes add. and commit
 1. git checkout branch-name -- switched to this branch
 
 after that any confusing any changes for master .let check 
-1. git checkout master --(switched to master
+1. git checkout master --(switched to maaa
 
 i want to create new branch and at a time switch  use this command
  1.git checkout -b branch-name
