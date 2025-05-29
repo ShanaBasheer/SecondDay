@@ -1,1 +1,25 @@
 Header updated
+-- git branch --view all branches
+indicate * symbol for currently working branch
+--new branch creation
+1.git branch branch-name (ex: about-page -working based or updation based giving branch-name )
+2.git status --view all status
+
+we have to checkout new branch use this command
+but noted-every checkout before that changes add. and commit 
+1. git checkout branch-name -- switched to this branch
+
+after that any confusing any changes for master .let check 
+1. git checkout master --(switched to master
+
+i want to create new branch and at a time switch  use this command
+ 1.git checkout -b branch-name
+ view all branch
+ 2. git branch
+ view all logs
+ 1. git logs
+
+ (note that each commit have one unique id is good for developers .this is main advantage for developers in any case our code is error please select previous commit id and switch 
+ )
+
+ doubt. each commit have new branch lets check----
