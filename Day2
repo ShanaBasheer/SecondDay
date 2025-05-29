@@ -3,4 +3,21 @@ Hai FuturaLab
 git is a version control and github is a cloud storage this in not connected direclty at the center one portion that is 
 
 1. git init -initialise local repo
-2. git 
+
+ i want to delete git configuration using this commands
+  1. git config --global --unset user.name
+  2. git config --global --unset user.email
+      if set with  --global configuration
+2.  git config --gloabl user.email "shana4658@gmail.com"
+    git config --global user.name "shana"
+
+3.git add . -- stages changes
+4.git commit -m "message"
+
+now my file ready to go for cloud storage with remote control
+create remote connection
+1. git remote add <remote name> <remote url>
+2. git push <remotename> <branch name>
+
+
+updated doc
